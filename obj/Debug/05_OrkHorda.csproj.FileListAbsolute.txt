@@ -1,0 +1,12 @@
+D:\Troll\_MagProgII_2017_18_B\05_OrkHorda\bin\Debug\05_OrkHorda.exe.config
+D:\Troll\_MagProgII_2017_18_B\05_OrkHorda\bin\Debug\05_OrkHorda.exe
+D:\Troll\_MagProgII_2017_18_B\05_OrkHorda\bin\Debug\05_OrkHorda.pdb
+D:\Troll\_MagProgII_2017_18_B\05_OrkHorda\obj\Debug\05_OrkHorda.csprojResolveAssemblyReference.cache
+D:\Troll\_MagProgII_2017_18_B\05_OrkHorda\obj\Debug\05_OrkHorda.exe
+D:\Troll\_MagProgII_2017_18_B\05_OrkHorda\obj\Debug\05_OrkHorda.pdb
+C:\Users\user\Desktop\_MagProgII_2017_18_B\05_OrkHorda\bin\Debug\05_OrkHorda.exe.config
+C:\Users\user\Desktop\_MagProgII_2017_18_B\05_OrkHorda\obj\Debug\05_OrkHorda.exe
+C:\Users\user\Desktop\_MagProgII_2017_18_B\05_OrkHorda\obj\Debug\05_OrkHorda.pdb
+C:\Users\user\Desktop\_MagProgII_2017_18_B\05_OrkHorda\obj\Debug\05_OrkHorda.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\_MagProgII_2017_18_B\05_OrkHorda\bin\Debug\05_OrkHorda.exe
+C:\Users\user\Desktop\_MagProgII_2017_18_B\05_OrkHorda\bin\Debug\05_OrkHorda.pdb
